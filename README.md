@@ -33,3 +33,4 @@ Example Kafka Project using Spring Boot
 * [Kafka](https://kafka.apache.org/)
 * [ivandjoh](https://instagram.com/ivandjoh)
 * [Delvin](https://instagram.com/delvinrobertsetiawan)
+* [Code Debugger](https://www.youtube.com/watch?v=l42iuR3l-f8)
