@@ -12,7 +12,7 @@ public class HomeServiceImpl implements HomeService {
     public ResponseEntity<Home> home() {
         Home home = new Home();
         home.setCode(200);
-        home.setMessage("Hello World");
+        home.setMessage("Welcome to My Home!");
         return ResponseEntity.ok(home);
     }
 
