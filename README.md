@@ -11,11 +11,12 @@ Example Kafka Project using Spring Boot
 `Edit the kafka-config/docker-compose.yml file and configure :9092`
 
 * Run Zookeeper and Kafka in Single Command
-   `docker compose -f ./kafka-config/docker-compose.yml up -d`
+
+`docker compose -f ./kafka-config/docker-compose.yml up -d`
 
   (OR)
 
-    `docker-compose -f ./kafka-config/docker-compose.yml up -d`
+`docker-compose -f ./kafka-config/docker-compose.yml up -d`
 * Make HTTP Requests to the endpoints
 
     `curl --location --request POST 'http://localhost:3500/users' \
